@@ -67,7 +67,7 @@ Lo más importante sería corregir el buscador para que tenga un filtrado mas es
 
 ![Sitemap](img/Labelling.png)
 
-## Paso 3. Mi equipo UX-Case Study 
+## Paso 3. UX-Case Study 
 
 ![Método UX](img/moodboard.png)  3.a Moodboard
 ----
@@ -93,6 +93,5 @@ Las ideas en cuanto a los guidelines para la página web serían las siguientes:
 - Solucionar el problema del desajuste de la página al cambiar el tamaño de la ventana.
 
 Es muy importante el uso de Guidelines que se adecúen perfectamente al objetivo de la aplicación web ya que van a ayudar  al usuario a la hora de interactuar con la interfaz y que su experiencia con la página sea lo más satisfactoria posible. De esta manera se consigue que el usuario quede satisfecho y pueda compartir la página con otras personas.
-
 
 
