@@ -53,7 +53,7 @@ Por lo tanto la accesibilidad es de lo primero en incluir en el nuevo diseño de
 
 ![Malla receptora](img/Malla.png)
 
-Lo más importante sería corregir el buscador para que tenga un filtrado mas específico y arreglar la página para que no se desajuste al cambiar el tamaño de la ventana. 
+Lo más importante sería corregir el buscador para que tenga un filtrado mas específico, arreglar la página para que no se desajuste al cambiar el tamaño de la ventana y que aparezca en la página principal la opción de registrarse.
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
