@@ -65,7 +65,7 @@ Lo más importante sería corregir el buscador para que tenga un filtrado mas es
 ----
 
 
-![Sitemap](img/labelling_1.png)
+![Sitemap](img/Labelling.png)
 
 ## Paso 3. Mi equipo UX-Case Study 
 
