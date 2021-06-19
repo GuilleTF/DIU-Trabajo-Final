@@ -69,7 +69,7 @@ Lo más importante sería corregir el buscador para que tenga un filtrado mas es
 
 ## Paso 3. Mi equipo UX-Case Study 
 
-![Método UX](img/moodboard.png)  3.a Logotipo
+![Método UX](img/moodboard.png)  3.a Moodboard
 ----
 <img src="img/logotipoYuzin.png" height=100></img>
 <img src="img/paletacolores.png" height=100></img>
