@@ -79,10 +79,6 @@ Del logotipo se dejaría como está para mantener la esencia de la página del p
 
 ![Método UX](img/guidelines.png) 3.b Guidelines
 ----
-Para facilitar la lectura, se usaría la tipografía "Sans-Serif", ya que es una opción muy legible y que llama al usuario a seguir leyendo. Otra opción es usar la tipografía San Francisco para distinguir los títulos o subtítulos del texto.
-
-Vamos a ser lógicos con la identidad de la marca por lo que la paleta de colores a utilizar tiene que ser muy parecida a la ya utilazada en la página.
-Se utilizará la [paleta de colores nº 3004][paleta] que es una combinación muy atractiva y sotisficada y que sigue con las tonalidades rojizas, esencia de la página web. Estas tonalidades crean una combinación original.
 
 Las ideas en cuanto a los guidelines para la página web serían las siguientes:
 - Breadcrumb: esto puede mejorar en gran medida la forma en que los usuarios encuentran su camino. En términos de usabilidad, los breadcrumbs reducen el número de acciones que un usuario necesita para llegar a una página de nivel superior, y mejoran la capacidad de búsqueda de las secciones y páginas del sitio web.
@@ -93,5 +89,5 @@ Las ideas en cuanto a los guidelines para la página web serían las siguientes:
 
 Es muy importante el uso de Guidelines que se adecúen perfectamente al objetivo de la aplicación web ya que van a ayudar  al usuario a la hora de interactuar con la interfaz y que su experiencia con la página sea lo más satisfactoria posible. De esta manera se consigue que el usuario quede satisfecho y pueda compartir la página con otras personas.
 
-[paleta]: https://paletasdecolores.com/paleta-de-colores-3004/
+
 
