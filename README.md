@@ -69,11 +69,11 @@ Lo más importante sería corregir el buscador para que tenga un filtrado mas es
 
 ## Paso 3. Mi equipo UX-Case Study 
 
-![Método UX](img/landing-page.png)  3.a Logotipo
+![Método UX](img/moodboard.png)  3.a Logotipo
 ----
-<img src="img/nuevo-logo-erranT.png" height=100></img>
-
-Del logotipo se dejaría como está para mantener la esencia de cómo empezó la aplicación web pero se cambiaría el color. El nuevo color del logo sería el rojo. Tambíen se añadiría alrededor del logo una elipse para hacerlo más llamativo.
+<img src="img/logotipoYuzin.png" height=100></img>
+<img src="img/paletacolores.png" height=100></img>
+Del logotipo se dejaría como está para mantener la esencia de la página del periódico digital actual. En cuanto a la paleta de colores también mantendría la misma.
 
 ![Método UX](img/guidelines.png) 3.b Guidelines
 ----
