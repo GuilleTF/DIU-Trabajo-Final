@@ -15,10 +15,9 @@ Miembro
 
 ----- 
 
-En esta actividad final se estudiará una plataforma de coworking y a partir de su análisis se realizará una propuesta para su diseño Web.
+En esta actividad final se estudiará una plataforma de un periódico digital y a partir de su análisis se realizará una propuesta para su diseño Web.
 
-Qué es el coworking: Los espacios de coworking son oficinas compartidas en las que profesionales autónomos, teletrabajadores y empresarios se dan cita para trabajar, y donde los gestores del espacio intentan conectar y crear oportunidades profesionales y personales entre y para sus miembros.
-El coworking es una evolución del trabajo colaborativo.
+Un periódico digital es una plataforma en la cual se suben noticias, articulos, etc. Dependiendo del periodico tendrán una distinta tematica las cosas que se suban a la página. Los periódicos digitales son una evolución de los periodicos normales, ya que son mucho mas accesibles.
 
 # Proceso de Diseño
 
@@ -27,20 +26,19 @@ El coworking es una evolución del trabajo colaborativo.
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
-Se ha elegido una aplicación web llamada ***erranT*** cuyo propósito es dar al usuario un espacio de trabajo, de formación y de colaboración. Te da la posibilidad de desarrollar tus proyectos y conocer otras posibilidades.
+Se ha elegido una aplicación web llamada ***Yuzin*** cuyo propósito es dar al usuario una información sobre eventos culturales. Te da la posibilidad de buscar el tipo de evento que buscas, en que fechas y el lugar.
 
 ![Método UX](img/usabilityReview.png) 1.b Usability Review
 ----
 
 - Enlace al documento:  [Usability Review](Usability-review.pdf)
-- Valoración final (numérica): 55/100 - *Moderate*
-- Comentario sobre la valoración: Es una página cuya idea está muy bien reflejada ya que cumple el objetivo de ayudar al usuario a conseguir un lugar de trabajo colaborativo pero su interfaz no ayuda a la experiencia de dicho usuario.
-- Otro test de usabilidad diferente: [Usabilidad de una página web](usabilidad.pdf)
+- Valoración final (numérica): 65/100 - *Moderate*
+- Comentario sobre la valoración: Es una página cuya idea está muy bien reflejada ya que cumple el objetivo de ayudar al usuario a buscar un evento y artículos de opinión pero su interfaz y la busqueda no termina de ayudar a la experiencia de dicho usuario ya que son un poco ineficientes.
 
 ![Método UX](img/Accesibility.png) 1.c Accesibility
 ----
 
-En cuanto a la accesibilidad, es un factor importantísimo para una página web y que erranT no cumple, ya que no tiene nada de información sobre este tema.
+En cuanto a la accesibilidad, es un factor importantísimo para una página web y que Yuzib no cumple, ya que no tiene nada de información sobre este tema.
 La accesibilidad es necesaria ya que tiene como objetivo lograr que las páginas web sean utilizables por el máximo número de personas, independientemente de sus conocimientos o capacidades personales.
 En breves palabras, para una persona con discapacidad visual, auditiva, motórica o cognitiva es muy complicado navegar por esta página sin ayuda.
 Por lo tanto la accesibilidad es de lo primero en incluir en el nuevo diseño de la página web.
