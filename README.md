@@ -55,7 +55,7 @@ Por lo tanto la accesibilidad es de lo primero en incluir en el nuevo diseño de
 
 Lo más importante sería corregir el buscador para que tenga un filtrado mas específico, arreglar la página para que no se desajuste al cambiar el tamaño de la ventana y que aparezca en la página principal la opción de registrarse.
 
-![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
+![Método UX](img/Sitemap.jpeg) 2.b Tasks & Sitemap 
 -----
 
 ![Sitemap](img/siteMap.png)
