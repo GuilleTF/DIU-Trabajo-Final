@@ -83,9 +83,14 @@ Del logotipo se dejaría como está para mantener la esencia de la página del p
 Las ideas en cuanto a los guidelines para la página web serían las siguientes:
 - Breadcrumb: esto puede mejorar en gran medida la forma en que los usuarios encuentran su camino. En términos de usabilidad, los breadcrumbs reducen el número de acciones que un usuario necesita para llegar a una página de nivel superior, y mejoran la capacidad de búsqueda de las secciones y páginas del sitio web.
 - Cambiar el diseño del buscador, añadiéndole algún patrón o dibujo que lo destaque y quede más llamativo. También es importante que el buscador sea accesible en todo momento, sin importar la página en la que nos encontremos.
-- Añadir a la página de las tarifas una tabla de precios, para que se pueda diferenciar claramente entre características y precios de las diferentes tarifas.
-
-- Introducir una pequeña galería de imágenes sobre las oficinas y las salas que la página está ofreciendo para que el usuario tenga una idea de lo que va a adquirir.
+- Añadir un apartado para poder leer los artículos de opinión ya que solo aparecen unos pocos en la página de inicio.
+- Resaltar mas el apartado donde se puede descargar el periodico digital.
+- Añadir un icono a los eventos que esten adaptados para gente discapacitada.
+- Mejorar la accesibilidad de la página ya que actualmente carece de un apartado de usabilidad al no tener nada implementado, ya sea añadiendo a los articulos de opinión un reproductor el cual pueda reproducir el texto que contiene el artículo, o dando la opción de poder aumentar el tamaño del texto.
+- Mejorar el buscador para que tenga una mayor cantidad de filtros.
+- Añadir un apartado al lado de iniciar sesión para poder registrarse.
+- Poner imágenes mas llamativas en los artículos de opinión.
+- Solucionar el problema del desajuste de la página al cambiar el tamaño de la ventana.
 
 Es muy importante el uso de Guidelines que se adecúen perfectamente al objetivo de la aplicación web ya que van a ayudar  al usuario a la hora de interactuar con la interfaz y que su experiencia con la página sea lo más satisfactoria posible. De esta manera se consigue que el usuario quede satisfecho y pueda compartir la página con otras personas.
 
