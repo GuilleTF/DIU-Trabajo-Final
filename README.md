@@ -38,7 +38,7 @@ Se ha elegido una aplicación web llamada ***Yuzin*** cuyo propósito es dar al 
 ![Método UX](img/Accesibility.png) 1.c Accesibility
 ----
 
-En cuanto a la accesibilidad, es un factor importantísimo para una página web y que Yuzib no cumple, ya que no tiene nada de información sobre este tema.
+En cuanto a la accesibilidad, es un factor importantísimo para una página web y que Yuzin no cumple, ya que no tiene nada de información sobre este tema.
 La accesibilidad es necesaria ya que tiene como objetivo lograr que las páginas web sean utilizables por el máximo número de personas, independientemente de sus conocimientos o capacidades personales.
 En breves palabras, para una persona con discapacidad visual, auditiva, motórica o cognitiva es muy complicado navegar por esta página sin ayuda.
 Por lo tanto la accesibilidad es de lo primero en incluir en el nuevo diseño de la página web.
@@ -53,7 +53,7 @@ Por lo tanto la accesibilidad es de lo primero en incluir en el nuevo diseño de
 
 ![Malla receptora](img/Malla.png)
 
-Lo más importante sería corregir la página de inicio para que las imágenes/vídeos no molesten al usuario y añadir la posibilidad de que los usuarios puedan puntuar todos los proyectos para así crear una lista de los mejores proyectos y recompensar a los usuarios más trabajadores de esa manera y darles más visibilidad.
+Lo más importante sería corregir el buscador para que tenga un filtrado mas específico y arreglar la página para que no se desajuste al cambiar el tamaño de la ventana. 
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
