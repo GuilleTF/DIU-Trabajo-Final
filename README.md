@@ -73,8 +73,9 @@ Lo más importante sería corregir el buscador para que tenga un filtrado mas es
 ----
 <img src="img/logotipoYuzin.png" height=100></img>
 <img src="img/paletacolores.png" height=100></img>
+<img src="img/fuentetexto.png" height=100></img>
 
-Del logotipo se dejaría como está para mantener la esencia de la página del periódico digital actual. En cuanto a la paleta de colores también mantendría la misma.
+Del logotipo se dejaría como está para mantener la esencia de la página del periódico digital actual. En cuanto a la paleta de colores también mantendría la misma.También voy a mantener las distintas fuentes de texto que se utilizan ya que considero que están bien elegidas.
 
 ![Método UX](img/guidelines.png) 3.b Guidelines
 ----
