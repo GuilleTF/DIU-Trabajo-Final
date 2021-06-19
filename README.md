@@ -8,7 +8,7 @@ Proyecto: Yuzin
 
 Descripción: Se va a analizar la página web de Yuzin (https://yuzin.com) para intentar mejorarla aportando nuevas ideas de diseño. En dicho análisis se intentará sacar los puntos negativos de la página y a partir de ellos ir trabajando para mejorar la página web.
 
-Logo: <img src="img/logo-erranT.png" height=40></img>
+Logo: <img src="img/logotipoYuzin.png" height=40></img>
 
 Miembro
  * :bust_in_silhouette:  Guillermo Torres Fernández
